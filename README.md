@@ -32,6 +32,13 @@ Atom以外の環境の場合、[prh](https://github.com/vvakame/prh)または[re
 RedPenは試験的に導入したため、知見やルールについてまだ固まっていません。
 意見・感想・修正案などあれば @mhidaka までご相談ください。
 
+
+## Markdownの下書きからreファイルを作成する
+
+```
+$ rake draft2re
+```
+
 ## PDF出力する
 
 rbenvやnodebrewを利用してRubyやNode.jsの準備をしている前提です。
