@@ -5,3 +5,5 @@ gem 'review', '5.4.0'
 gem 'pandoc2review'
 gem 'rake'
 # gem 'review-peg', '0.2.2'
+
+gem 'md2review'
