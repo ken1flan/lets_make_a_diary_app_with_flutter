@@ -10,7 +10,8 @@
       - mac
       - android
       - visual studio code
-  - 作って、インストール
+    - 免責事項
+  - エミュレータと実機
     - エミュレータ
       - android
       - ios
@@ -18,8 +19,9 @@
   - 日記アプリについて
     - イメージ図
     - データモデル
-  - テスト環境
+  - テスト環境とライブラリのアップデート
     - cirrusci
+    - ライブラリのupgrade
   - 記事一覧の見た目
     - レイアウトの分解
     - コード説明
@@ -29,11 +31,6 @@
   - データ書き込み
     - isar
     - コード説明
-  - 番外 データ保存比較
-    - firebase
-    - sqlflite
-    - objectbox
-    - isar
   - 記事一覧
     - サマリー表示
     - コード説明
@@ -55,11 +52,13 @@
     - スプラッシュ
       - flutter_native_splash
       - コード説明
-  - 国際化
-  - Google play store
-    - 費用
   - 終わりに
     - 謝辞
       - flutter
       - Zenn
       - Re:VIEW
+  - おまけ データ保存比較
+    - firebase
+    - sqlflite
+    - objectbox
+    - isar
